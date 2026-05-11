@@ -39,7 +39,8 @@ RapidCR can be enhanced with AI-based emergency prediction, real-time GPS tracki
 )
 
 ### 🚨 Emergency SOS
-![Emergency SOS](assets/Emergency SOS.jpg)
+![Emergency SOS](<img width="1072" height="1400" alt="17785010498132965890726968215865" src="https://github.com/user-attachments/assets/95d2c1ad-bac0-4641-9857-d2f5ad77cac0" />
+)
 
 ### 📝 Report Issue
 ![Report Issue](
