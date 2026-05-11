@@ -35,7 +35,8 @@ RapidCR can be enhanced with AI-based emergency prediction, real-time GPS tracki
 ## 📸 Screenshots
 
 ### 🔐 Secure Access Portal
-![Secure Access Portal](assets/Secure access Portal.jpg)
+![Secure Access Portal](<img width="1072" height="1400" alt="17785000861824419939014678364557" src="https://github.com/user-attachments/assets/492d3fc0-6f47-4082-abde-f9784cc42453" />
+)
 
 ### 🚨 Emergency SOS
 ![Emergency SOS](assets/Emergency SOS.jpg)
