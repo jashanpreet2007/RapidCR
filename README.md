@@ -32,3 +32,16 @@ Working Prototype Link:-https://harmonious-biscochitos-62b234.netlify.app/
 ## 🚀 Future Scope
 
 RapidCR can be enhanced with AI-based emergency prediction, real-time GPS tracking, multilingual support, offline SOS features, disaster heatmaps, and integration with healthcare and law-enforcement systems to build a scalable smart emergency response ecosystem.
+## 📸 Screenshots
+
+### 🔐 Secure Access Portal
+![Secure Access Portal](assets/Secure access Portal.jpg)
+
+### 🚨 Emergency SOS
+![Emergency SOS](assets/Emergency SOS.jpg)
+
+### 📝 Report Issue
+![Report Issue](assets/Report Issue.jpg)
+
+### ℹ️ Safety Info
+![Safety Info](assets/Safety info.jpg)
